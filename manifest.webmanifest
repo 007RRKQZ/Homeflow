@@ -1,0 +1,13 @@
+{
+  "name": "Homeflow — домашние дела",
+  "short_name": "Homeflow",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101211",
+  "theme_color": "#101211",
+  "description": "Минималистичный трекер и планировщик домашних дел",
+  "icons": [
+    { "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='44' fill='%23101211'/%3E%3Cpath d='M48 91 96 48l48 43v55H48Z' fill='none' stroke='%2379C795' stroke-width='12' stroke-linejoin='round'/%3E%3Cpath d='m70 111 17 17 36-39' fill='none' stroke='%23A4E0B5' stroke-width='12' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E", "sizes": "192x192", "type": "image/svg+xml" },
+    { "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='116' fill='%23101211'/%3E%3Cpath d='M128 243 256 128l128 115v146H128Z' fill='none' stroke='%2379C795' stroke-width='32' stroke-linejoin='round'/%3E%3Cpath d='m187 297 45 45 93-101' fill='none' stroke='%23A4E0B5' stroke-width='32' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E", "sizes": "512x512", "type": "image/svg+xml" }
+  ]
+}
